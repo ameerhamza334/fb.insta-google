@@ -1,0 +1,95 @@
+.fir
+{
+	background-color: #cecece;
+	text-align: center;
+	margin :8px;
+	padding: 10px;
+}
+.goo
+{
+	margin :20px;
+	text-decoration: none;
+}
+.ins
+{
+	margin :20px;
+	text-decoration: none;
+}
+.fac
+{
+	margin :20px;
+	text-decoration: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+*{
+	margin:0;
+	padding:0;
+}
+.fbbody{
+	background-color: #f0f2f5;
+	font-family: 'Roboto', sans-serif;
+}
+.container{
+	position: absolute;
+	top: 30%;
+	left:20%;
+	font-size: 20px;
+}
+.container h1{
+	color: #2c83f2;
+}
+.header{
+	width: 300px;
+	height: 350px;
+	position: absolute;
+	top: 23%;
+	left: 57%;
+	background-color: white;
+}
+.scontainer input{
+	width: 80%;
+	margin:10px;
+	margin-top:18px;
+	margin-left:18px;
+	padding:10px;
+}
+.link{
+	text-align: center;
+	background-color: #2c83f2;
+	padding:8px;
+	margin: 3px 18px;
+	border-radius: 5px;
+}
+.link a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+.link1{
+	text-align: center;
+	padding-top: 19px;
+	padding-bottom: 30px
+}
+.link1 a{
+	text-decoration: none;
+	color: blue;
+}
+.link2 {
+	text-align: center;
+	padding-top: 28px;
+
+}
+.link2 a{
+	color: white;
+	text-decoration: none;
+	background-color:#36A420;
+	padding:10px 20px;
+	border-radius: 5px;
+}
+.lastfb{
+	width: 400px;
+	position: absolute;
+	margin-left: 60%;
+	margin-top:37%;
+	font-size: 11px;
+}
